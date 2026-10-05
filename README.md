@@ -1,8 +1,8 @@
 # 你好，我是 summmmerz
 
-应届毕业生，方向是 **LLM 应用与知识图谱**。习惯把踩过的坑做成能直接用的工具——所以这里的仓库大多有明确的使用场景、能跑起来，README 讲的是"为什么这么做"而不只是复述代码。
+2027 届，人工智能专业，方向是 **LLM 应用与知识图谱**。习惯把踩过的坑做成能直接用的工具——所以这里的仓库大多有明确的使用场景、能跑起来，README 讲的是"为什么这么做"而不只是复述代码。
 
-*English: CS graduate working on LLM applications and knowledge graphs. I like turning debugging pain into small tools that actually run.*
+*English: AI undergrad (class of 2027) working on LLM applications and knowledge graphs. I like turning debugging pain into small tools that actually run.*
 
 ## 代表作
 
